@@ -5,6 +5,6 @@
 ```sh
 npm install
 yarn build
-yar dev
+yarn dev
 ```
 
